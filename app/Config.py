@@ -1,1 +1,1 @@
-Channel_access_token="jzgwl13jqUKEavuBd4ZcJAqzOG9UmnNy7bVKBNMWa8QHARMjpKCvX5zo0hG4mZp+S6M40ufbF61Q65P/45RhlMI9mtsIqB0HvKYEeO7QyOp8/xS/WR3IaDIFKXrlcYD6P5hbucm18DxEeAFLXBPANgdB04t89/1O/w1cDnyilFU="
+Channel_access_token=""
