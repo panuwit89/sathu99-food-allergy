@@ -13,7 +13,7 @@ pip install -r requirements.txt
 3. ใช้คำสั่ง `gcloud auth configure-docker`
 4. ใช้คำสั่ง `docker build -t <name_image> .`
 5. ใช้คำสั่ง `docker run -d -p <number_port>:<number_port> <name_image>`
-6. ใช้คำสั่ง `docker run -d -p <number_port>:<number_port> <name_image>`
+6. ใช้คำสั่ง `docker tag <ID_DOCKER> <location_push>:<tag_name>`
 7. ใช้คำสั่ง `docker push <location_push>:<tag_name>`
 
 > [!NOTE]
